@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-class task1{
+class Task1{
     public static void main(String[] args) {
     Random rand=new Random();
     Scanner sc=new Scanner(System.in);
