@@ -35,7 +35,7 @@ class Task1{
             
         }
         noofatt+=1;
-        }while(flag==1 && noofatt<=6 );
+        }while(flag==1 && noofatt<5 );
     }while(choice=='y');
     System.out.println("your score : "+score);
     }
